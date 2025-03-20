@@ -1,0 +1,14 @@
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\bin\Debug\net9.0\BubbleSort.exe
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\bin\Debug\net9.0\BubbleSort.deps.json
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\bin\Debug\net9.0\BubbleSort.runtimeconfig.json
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\bin\Debug\net9.0\BubbleSort.dll
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\bin\Debug\net9.0\BubbleSort.pdb
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfoInputs.cache
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfo.cs
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\BubbleSort.csproj.CoreCompileInputs.cache
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\BubbleSort.dll
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\refint\BubbleSort.dll
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\BubbleSort.pdb
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\BubbleSort.genruntimeconfig.cache
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\ref\BubbleSort.dll
