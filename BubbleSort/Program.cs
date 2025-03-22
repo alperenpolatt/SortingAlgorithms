@@ -5,7 +5,7 @@ void BubbleSort<T>(T[] array)
 	{
 		for (int j = 0; j < array.Length - i - 1; j++) //sonu hep sıralı gittiği için, gidilmiş sondaki elemanları çıkarıyoruz en büyük elemanı her zaman en sona götürüyor
 		{
-			if (Comparer<T>.Default.Compare(array[j], array[j + 1]) > 0)//jninci eleman sağındaki elemandan büyükse
+			if (Comparer<T>.Default.Compare(array[j], array[j + 1]) > 0)//jninci eleman sağındaki elemandan büyükse sağa taşıyacak
 			{
 				var temp = array[j];
 				array[j] = array[j + 1];
