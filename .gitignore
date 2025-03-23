@@ -5,4 +5,8 @@
 /.vs
 /*/obj
 
-/*/*/Debug/net9.0
+/*/obj\
+
+/BubbleSort/obj/**
+/Test/bin/Debug/net9.0
+/InsertionSort/bin/Debug/net9.0
