@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\merkez-lenovo\\GitRepos\\SortingAlgorithms\\BubbleSort\\BubbleSort.csproj": {}
+    "C:\\Users\\merkez-lenovo\\GitRepos\\SortingAlgorithms\\BubbleSort\\BubbleSort.csproj": {}
   },
   "projects": {
-    "c:\\Users\\merkez-lenovo\\GitRepos\\SortingAlgorithms\\BubbleSort\\BubbleSort.csproj": {
+    "C:\\Users\\merkez-lenovo\\GitRepos\\SortingAlgorithms\\BubbleSort\\BubbleSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\merkez-lenovo\\GitRepos\\SortingAlgorithms\\BubbleSort\\BubbleSort.csproj",
+        "projectUniqueName": "C:\\Users\\merkez-lenovo\\GitRepos\\SortingAlgorithms\\BubbleSort\\BubbleSort.csproj",
         "projectName": "BubbleSort",
-        "projectPath": "c:\\Users\\merkez-lenovo\\GitRepos\\SortingAlgorithms\\BubbleSort\\BubbleSort.csproj",
+        "projectPath": "C:\\Users\\merkez-lenovo\\GitRepos\\SortingAlgorithms\\BubbleSort\\BubbleSort.csproj",
         "packagesPath": "C:\\Users\\merkez-lenovo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\merkez-lenovo\\GitRepos\\SortingAlgorithms\\BubbleSort\\obj\\",
+        "outputPath": "C:\\Users\\merkez-lenovo\\GitRepos\\SortingAlgorithms\\BubbleSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\merkez-lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

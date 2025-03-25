@@ -12,3 +12,4 @@ c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\re
 c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\BubbleSort.pdb
 c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\BubbleSort.genruntimeconfig.cache
 c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\ref\BubbleSort.dll
+c:\Users\merkez-lenovo\GitRepos\SortingAlgorithms\BubbleSort\obj\Debug\net9.0\BubbleSort.sourcelink.json
